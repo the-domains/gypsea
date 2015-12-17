@@ -1,0 +1,28 @@
+name: gypsea
+favicon: null
+layout_spectrum: 0.24565288634039462
+typography_spectrum: 0.7886452102102339
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.800479092169553
+  lightness: 0.3191873235628009
+  saturation: 0.6605408852919936
+  rhythmicContrast: 0.09475219808518887
+purpose: []
